@@ -1,0 +1,35 @@
+---
+title: "Software"
+---
+
+::: {.oe-package}
+## shortIRT
+
+Item Response Theory procedures for building tests from an item bank and for developing short forms of full-length tests. They differ in how much control you have over the latent trait levels you target, and in whether the number of items is set in advance or chosen by the algorithm.
+
+[CRAN](https://CRAN.R-project.org/package=shortIRT) · [GitHub](https://github.com/OttaviaE/shortIRT)
+:::
+
+::: {.oe-package}
+## implicitMeasures
+
+Scores for the Implicit Association Test and the Single Category IAT, with functions for preparing the data, plotting the results and tabulating descriptive statistics.
+
+[CRAN](https://CRAN.R-project.org/package=implicitMeasures) · [GitHub](https://github.com/OttaviaE/implicitMeasures) · [Paper](https://doi.org/10.21105/joss.02394)
+:::
+
+::: {.oe-package}
+## matRiks
+
+Raven-like matrices of 4 or 9 cells, generated from logical and visual-spatial rules, each with a response list of the correct answer and 10 distractors. Maintained by Andrea Brancaccio; developed within the PRIN 2020 project on adaptive assessment of executive functions and fluid intelligence.
+
+[CRAN](https://CRAN.R-project.org/package=matRiks) · [GitHub](https://github.com/OttaviaE/matRiks) · [Tutorial](https://doi.org/10.3389/fpsyg.2025.1698995)
+:::
+
+::: {.oe-package}
+## DscoreApp
+
+A Shiny app that computes the Implicit Association Test *D*-score without writing any code.
+
+[Open the app](http://fisppa.psy.unipd.it/DscoreApp/) · [Paper](https://doi.org/10.3389/fpsyg.2019.02938)
+:::

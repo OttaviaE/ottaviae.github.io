@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Testing for work organizations, Master’s in Work Psychology, University of Padova (2025/26)\nProbability and Statistics, Bachelor’s in Human Computer Interaction, University of Trento (2025/26)\nData Analysis with software application, Bachelor’s in Psychology, University of Trento (2025/26)\nIntroduction to Psychometrics and Data Analysis, Master’s in Psychology, University of Trento (2024/25)\nStatistical Psychometrics, Bachelor’s in Psychology, Università Cattolica del Sacro Cuore, Milan (2021/22 to 2023/24)\n\n\n\n\n\nRMarkdown: Reproducible analysis, presentations, reports and beyond, ARCA, University of Padova (since 2022). Course site\nFrom experiment design to data analysis: How to work with implicit measures, Master in Quantitative Psychology, University of Padova (since 2022)\nAn introduction to Item Response Theory models with R, University of Trento (2023). Course site\ncouRse: An introduction to R, Graduate School in Psychology, Università Cattolica, Milan (2023). Materials\nMeasurement models in Psychology, Scuola Superiore di Scienze dell’Educazione “S. Giovanni Bosco”, Massa (2024)\nIntroduction to Item Response Theory with applications in R, Graduate School, University of Bolzano (2022). Course site\nProgramming in R and introduction to Shiny, QHELP (2022). Course site"
+  },
+  {
+    "objectID": "teaching.html#university-courses",
+    "href": "teaching.html#university-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Testing for work organizations, Master’s in Work Psychology, University of Padova (2025/26)\nProbability and Statistics, Bachelor’s in Human Computer Interaction, University of Trento (2025/26)\nData Analysis with software application, Bachelor’s in Psychology, University of Trento (2025/26)\nIntroduction to Psychometrics and Data Analysis, Master’s in Psychology, University of Trento (2024/25)\nStatistical Psychometrics, Bachelor’s in Psychology, Università Cattolica del Sacro Cuore, Milan (2021/22 to 2023/24)"
+  },
+  {
+    "objectID": "teaching.html#schools-and-short-courses",
+    "href": "teaching.html#schools-and-short-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "RMarkdown: Reproducible analysis, presentations, reports and beyond, ARCA, University of Padova (since 2022). Course site\nFrom experiment design to data analysis: How to work with implicit measures, Master in Quantitative Psychology, University of Padova (since 2022)\nAn introduction to Item Response Theory models with R, University of Trento (2023). Course site\ncouRse: An introduction to R, Graduate School in Psychology, Università Cattolica, Milan (2023). Materials\nMeasurement models in Psychology, Scuola Superiore di Scienze dell’Educazione “S. Giovanni Bosco”, Massa (2024)\nIntroduction to Item Response Theory with applications in R, Graduate School, University of Bolzano (2022). Course site\nProgramming in R and introduction to Shiny, QHELP (2022). Course site"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Item Response Theory procedures for building tests from an item bank and for developing short forms of full-length tests. They differ in how much control you have over the latent trait levels you target, and in whether the number of items is set in advance or chosen by the algorithm.\nCRAN · GitHub"
+  },
+  {
+    "objectID": "software.html#shortirt",
+    "href": "software.html#shortirt",
+    "title": "Software",
+    "section": "",
+    "text": "Item Response Theory procedures for building tests from an item bank and for developing short forms of full-length tests. They differ in how much control you have over the latent trait levels you target, and in whether the number of items is set in advance or chosen by the algorithm.\nCRAN · GitHub"
+  },
+  {
+    "objectID": "software.html#implicitmeasures",
+    "href": "software.html#implicitmeasures",
+    "title": "Software",
+    "section": "implicitMeasures",
+    "text": "implicitMeasures\nScores for the Implicit Association Test and the Single Category IAT, with functions for preparing the data, plotting the results and tabulating descriptive statistics.\nCRAN · GitHub · Paper"
+  },
+  {
+    "objectID": "software.html#matriks",
+    "href": "software.html#matriks",
+    "title": "Software",
+    "section": "matRiks",
+    "text": "matRiks\nRaven-like matrices of 4 or 9 cells, generated from logical and visual-spatial rules, each with a response list of the correct answer and 10 distractors. Maintained by Andrea Brancaccio; developed within the PRIN 2020 project on adaptive assessment of executive functions and fluid intelligence.\nCRAN · GitHub · Tutorial"
+  },
+  {
+    "objectID": "software.html#dscoreapp",
+    "href": "software.html#dscoreapp",
+    "title": "Software",
+    "section": "DscoreApp",
+    "text": "DscoreApp\nA Shiny app that computes the Implicit Association Test D-score without writing any code.\nOpen the app · Paper"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ottavia M. Epifania, PhD",
+    "section": "",
+    "text": "Researcher in Tenure Track in PsychometricsPsicostat Core Team\n  \n  \n\nI am a tenure-track researcher in psychometrics at the Department of Psychology and Cognitive Science of the University of Trento, in Rovereto.\nI work on latent variable models, mostly Item Response Theory: how to shorten a test without losing what it measures, how to generate test items automatically, and how to model accuracy and response times in implicit measures. Most of this ends up as R packages and Shiny apps, so that other people can use it too.\nI am part of the core team of Psicostat and an Academic Editor at PeerJ.\n\n\nPublications\nSoftware\nTalks\nTeaching\nottavia.epifania@unitn.it\nORCID\n\n\n\nThe horror persists, and so do I."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Epifania, O. M., Brancaccio, A., Anselmi, P., & de Chiusole, D. Generation of rule-based matrices with the matRiks package: A tutorial. Frontiers in Psychology, 16, 1698995.\nEpifania, O. M., Anselmi, P., & Robusto, E. implicitMeasures: An R package for scoring the Implicit Association Test and the Single-Category Implicit Association Test. Applied Psychological Measurement, 50(1-2), 58-59.\nBrancaccio, A., Epifania, O. M., Anselmi, P., & de Chiusole, D. Automatic generation of rule-based Raven-like matrices in R: The matRiks package. Applied Psychological Measurement, 50(3), 148-149.\nBrancaccio, A., de Chiusole, D., Epifania, O. M., Anselmi, P., Spinoso, M., Mazzoni, N., Bacherini, A., Orsoni, M., Giovagnoli, S., Pierluigi, I., Benassi, M., Balboni, G., & Stefanutti, L. Two Markov solution process models for the assessment of planning in problem solving. Psychometrika, 91(1), 360-390.\nde Chiusole, D., Epifania, O. M., Anselmi, P., Brancaccio, A., Mazzoni, N., Spinoso, M., Orsoni, M., Giovagnoli, S., Pierluigi, I., Bacherini, A., Benassi, M., Balboni, G., & Stefanutti, L. Multi-method validation of the new computerized test of fluid intelligence MatriKS. Behavior Research Methods, 58(7), 191.\nSpinoso, M., Benassi, M., Riccardi, A., Orsoni, M., Mazzoni, N., Brancaccio, A., Epifania, O. M., Allegretti, M., Muccinelli, M., Novelli, C., de Chiusole, D., Anselmi, P., Stefanutti, L., Bacherini, A., Pierluigi, I., Balboni, G., & Giovagnoli, S. Error patterns on a computerized version of Raven’s progressive matrices in specific learning disorders. Frontiers in Psychology, 17, 1800128.\nOrsoni, M., Mazzoni, N., Spinoso, M., Garofalo, S., Costantini, S., Raggini, R., Bacherini, A., Pierluigi, I., Brancaccio, A., Epifania, O. M., de Chiusole, D., Anselmi, P., Stefanutti, L., Giovagnoli, S., Balboni, G., Sant’Angelo, R. P., & Benassi, M. Error patterns in progressive matrices in schizophrenia and bipolar disorders. Preprint, PsyArXiv.\n\n\n\n\n\nEpifania, O. M., Anselmi, P., & Robusto, E. Comparing the ability of the IAT and of the SC-IAT to account for behavioral outcomes: A re-analysis using linear mixed-effects models. Frontiers in Psychology, 16, 1652403.\nEpifania, O. M., & Finos, L. Nothing lasts forever – only item administration: An Item Response Theory algorithm to shorten tests. SIS 2025 Conference, Genoa.\nAnselmi, P., de Chiusole, D., Robusto, E., Bacherini, A., Balboni, G., Brancaccio, A., Epifania, O. M., Mazzoni, N., & Stefanutti, L. An extension of the basic local independence model to multiple observed classifications. British Journal of Mathematical and Statistical Psychology.\nCiuffo, G., Ionio, C., Epifania, O. M., Landoni, M., Bianchi, S., Webb, R., Constantinou, G., & Ayers, S. Validation of the City Birth Trauma Scale in Italian: Addressing childbirth-related posttraumatic stress disorder. Journal of Reproductive and Infant Psychology.\nFranchino, E., Ciringione, L., Canal, L., Epifania, O. M., Lombardi, L., Lattanzi, G., & Stella, M. A network psychometric analysis of math anxiety factors in Italian psychology students. Psychology International, 7(2).\n\n\n\n\n\nEpifania, O. M., Anselmi, P., & Robusto, E. A guided tutorial on linear mixed-effects models for the analysis of accuracy and response times in experiments with fully-crossed design. Psychological Methods.\nde Chiusole, D., Spinoso, M., Anselmi, P., Bacherini, A., Balboni, G., Mazzoni, N., Brancaccio, A., Epifania, O. M., Orsoni, M., Giovagnoli, S., et al. PsycAssist: A web-based artificial intelligence system designed for adaptive neuropsychological assessment and training. Brain Sciences, 14.\n\n\n\n\n\nEpifania, O. M., Robusto, E., & Anselmi, P. Is the performance at the Implicit Association Test sensitive to feedback presentation? A Rasch-based analysis. Psychological Research, 87(3), 737-759.\nEpifania, O. M., Anselmi, P., & Robusto, E. Pauci sed boni: An Item Response Theory approach for shortening tests. In M. Wiberg et al. (Eds.), Quantitative Psychology (IMPS 2022). Springer Proceedings in Mathematics & Statistics, vol. 422.\n\n\n\n\n\nEpifania, O. M., Anselmi, P., & Robusto, E. Filling the gap between implicit associations and behavior: A linear mixed-effects Rasch analysis of the Implicit Association Test. Methodology, 18(3), 185-202.\nEpifania, O. M., Anselmi, P., & Robusto, E. Implicit social cognition through the years: The Implicit Association Test at age 21. Psychology of Consciousness: Theory, Research, and Practice, 9(3).\n\n\n\n\n\nEpifania, O. M., Robusto, E., & Anselmi, P. Rasch gone mixed: A mixed model approach to the Implicit Association Test. TPM: Testing, Psychometrics, Methodology in Applied Psychology, 28(4).\nPaolini, S., Devita, M., Epifania, O. M., Anselmi, P., Sergi, G., Mapelli, D., & Coin, A. Perception of stress and cognitive efficiency in older adults with mild and moderate dementia during the COVID-19-related lockdown. Journal of Psychosomatic Research, 149.\nEpifania, O. M. Inglorious Measures: A linear mixed-effects model approach for a Rasch analysis of implicit measure accuracy and time responses. PhD thesis, University of Padova.\n\n\n\n\n\nEpifania, O. M., Anselmi, P., & Robusto, E. DscoreApp: A Shiny web application for the computation of the Implicit Association Test D-score. Frontiers in Psychology, 10, 2938.\nEpifania, O. M., Anselmi, P., & Robusto, E. A fairer comparison between the Implicit Association Test and the Single Category Implicit Association Test. TPM: Testing, Psychometrics, Methodology in Applied Psychology, 27(2).\nEpifania, O. M., Anselmi, P., & Robusto, E. Implicit measures with reproducible results: The implicitMeasures package. Journal of Open Source Software, 5(52), 2394.\n\n\n\n\n\nEpifania, O. M., Anselmi, P., & Robusto, E. DscoreApp: A user-friendly web application for computing the Implicit Association Test D-score. Journal of Open Source Software, 4(42), 1764."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Epifania, O. M., Brancaccio, A., Anselmi, P., & de Chiusole, D. Generation of rule-based matrices with the matRiks package: A tutorial. Frontiers in Psychology, 16, 1698995.\nEpifania, O. M., Anselmi, P., & Robusto, E. implicitMeasures: An R package for scoring the Implicit Association Test and the Single-Category Implicit Association Test. Applied Psychological Measurement, 50(1-2), 58-59.\nBrancaccio, A., Epifania, O. M., Anselmi, P., & de Chiusole, D. Automatic generation of rule-based Raven-like matrices in R: The matRiks package. Applied Psychological Measurement, 50(3), 148-149.\nBrancaccio, A., de Chiusole, D., Epifania, O. M., Anselmi, P., Spinoso, M., Mazzoni, N., Bacherini, A., Orsoni, M., Giovagnoli, S., Pierluigi, I., Benassi, M., Balboni, G., & Stefanutti, L. Two Markov solution process models for the assessment of planning in problem solving. Psychometrika, 91(1), 360-390.\nde Chiusole, D., Epifania, O. M., Anselmi, P., Brancaccio, A., Mazzoni, N., Spinoso, M., Orsoni, M., Giovagnoli, S., Pierluigi, I., Bacherini, A., Benassi, M., Balboni, G., & Stefanutti, L. Multi-method validation of the new computerized test of fluid intelligence MatriKS. Behavior Research Methods, 58(7), 191.\nSpinoso, M., Benassi, M., Riccardi, A., Orsoni, M., Mazzoni, N., Brancaccio, A., Epifania, O. M., Allegretti, M., Muccinelli, M., Novelli, C., de Chiusole, D., Anselmi, P., Stefanutti, L., Bacherini, A., Pierluigi, I., Balboni, G., & Giovagnoli, S. Error patterns on a computerized version of Raven’s progressive matrices in specific learning disorders. Frontiers in Psychology, 17, 1800128.\nOrsoni, M., Mazzoni, N., Spinoso, M., Garofalo, S., Costantini, S., Raggini, R., Bacherini, A., Pierluigi, I., Brancaccio, A., Epifania, O. M., de Chiusole, D., Anselmi, P., Stefanutti, L., Giovagnoli, S., Balboni, G., Sant’Angelo, R. P., & Benassi, M. Error patterns in progressive matrices in schizophrenia and bipolar disorders. Preprint, PsyArXiv."
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "",
+    "text": "Epifania, O. M., Anselmi, P., & Robusto, E. Comparing the ability of the IAT and of the SC-IAT to account for behavioral outcomes: A re-analysis using linear mixed-effects models. Frontiers in Psychology, 16, 1652403.\nEpifania, O. M., & Finos, L. Nothing lasts forever – only item administration: An Item Response Theory algorithm to shorten tests. SIS 2025 Conference, Genoa.\nAnselmi, P., de Chiusole, D., Robusto, E., Bacherini, A., Balboni, G., Brancaccio, A., Epifania, O. M., Mazzoni, N., & Stefanutti, L. An extension of the basic local independence model to multiple observed classifications. British Journal of Mathematical and Statistical Psychology.\nCiuffo, G., Ionio, C., Epifania, O. M., Landoni, M., Bianchi, S., Webb, R., Constantinou, G., & Ayers, S. Validation of the City Birth Trauma Scale in Italian: Addressing childbirth-related posttraumatic stress disorder. Journal of Reproductive and Infant Psychology.\nFranchino, E., Ciringione, L., Canal, L., Epifania, O. M., Lombardi, L., Lattanzi, G., & Stella, M. A network psychometric analysis of math anxiety factors in Italian psychology students. Psychology International, 7(2)."
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "",
+    "text": "Epifania, O. M., Anselmi, P., & Robusto, E. A guided tutorial on linear mixed-effects models for the analysis of accuracy and response times in experiments with fully-crossed design. Psychological Methods.\nde Chiusole, D., Spinoso, M., Anselmi, P., Bacherini, A., Balboni, G., Mazzoni, N., Brancaccio, A., Epifania, O. M., Orsoni, M., Giovagnoli, S., et al. PsycAssist: A web-based artificial intelligence system designed for adaptive neuropsychological assessment and training. Brain Sciences, 14."
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "",
+    "text": "Epifania, O. M., Robusto, E., & Anselmi, P. Is the performance at the Implicit Association Test sensitive to feedback presentation? A Rasch-based analysis. Psychological Research, 87(3), 737-759.\nEpifania, O. M., Anselmi, P., & Robusto, E. Pauci sed boni: An Item Response Theory approach for shortening tests. In M. Wiberg et al. (Eds.), Quantitative Psychology (IMPS 2022). Springer Proceedings in Mathematics & Statistics, vol. 422."
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "",
+    "text": "Epifania, O. M., Anselmi, P., & Robusto, E. Filling the gap between implicit associations and behavior: A linear mixed-effects Rasch analysis of the Implicit Association Test. Methodology, 18(3), 185-202.\nEpifania, O. M., Anselmi, P., & Robusto, E. Implicit social cognition through the years: The Implicit Association Test at age 21. Psychology of Consciousness: Theory, Research, and Practice, 9(3)."
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "",
+    "text": "Epifania, O. M., Robusto, E., & Anselmi, P. Rasch gone mixed: A mixed model approach to the Implicit Association Test. TPM: Testing, Psychometrics, Methodology in Applied Psychology, 28(4).\nPaolini, S., Devita, M., Epifania, O. M., Anselmi, P., Sergi, G., Mapelli, D., & Coin, A. Perception of stress and cognitive efficiency in older adults with mild and moderate dementia during the COVID-19-related lockdown. Journal of Psychosomatic Research, 149.\nEpifania, O. M. Inglorious Measures: A linear mixed-effects model approach for a Rasch analysis of implicit measure accuracy and time responses. PhD thesis, University of Padova."
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "",
+    "text": "Epifania, O. M., Anselmi, P., & Robusto, E. DscoreApp: A Shiny web application for the computation of the Implicit Association Test D-score. Frontiers in Psychology, 10, 2938.\nEpifania, O. M., Anselmi, P., & Robusto, E. A fairer comparison between the Implicit Association Test and the Single Category Implicit Association Test. TPM: Testing, Psychometrics, Methodology in Applied Psychology, 27(2).\nEpifania, O. M., Anselmi, P., & Robusto, E. Implicit measures with reproducible results: The implicitMeasures package. Journal of Open Source Software, 5(52), 2394."
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "",
+    "text": "Epifania, O. M., Anselmi, P., & Robusto, E. DscoreApp: A user-friendly web application for computing the Implicit Association Test D-score. Journal of Open Source Software, 4(42), 1764."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "EMPG 2026: slides\nAIP 2026: the shortIRT package\nPARS 2026, Psicostat: There’s nothing more practical than a good theory\nPsychoco, Padova: the shortIRT package and the matRiks package\n\n\n\n\n\nAIP 2025, symposium “New perspectives for developing short forms of tests”: overview and slides\nAIP 2025, second symposium: slides\nEMPG 2025: slides\nPredoc Camp, DiPSCo: slides\nSIS 2025, Genoa: slides\n\n\n\n\n\nASA 2024, Rome. Symposium: Developing, administering and refining measurement instruments in Social Sciences\nAIP 2024, Noto: Test length doesn’t matter, it’s how you use the items that counts\n“Prospettive interdisciplinari nella misura di competenze e capacità linguistiche in età scolare”, Padova: Perché non generare test e questionari open… dal principio? (examples)\n“La psicometria tra oggi e domani”, Florence: L’importanza di essere significante\n\n\n\n\n\nCMStatistics 2023, Berlin (invited): When randomness opens new possibilities\nEMPG 2023, Amsterdam: matRiks: An R package for rule-based automatic generation of Raven-like matrices\nASA 2023, Bologna: Cut it short\nAIP 2023, Lucca: Le misure in psicologia sono significanti? and matRiks\n\n\n\n\n\nAIP 2022, Padova: Don’t say CAT and The Rasch model: Questionnaires and beyond\nEMPG 2022, Rovereto: Pauci sed boni\n\n\n\n\n\nAIP 2021, Lecce: Less is more and Risposta sbagliata!\n\n\n\n\n\neRum 2020, Shiny demo: Scoring the Implicit Association Test has never been easier\nuseR! 2020: slides, poster, video\nAIP 2020: Non separare dopo quello che hai somministrato insieme prima\nCognitive Science Arena, Brixen: Filling the gap between implicit and behavior. Third place, best presentation.\n\n\n\n\n\nAIP 2019, Milan: DscoreApp: Una Shiny web application per il calcolo del D score\n\n\n\n\n\nEMPG 2018, Genoa: Rasch gone mixed"
+  },
+  {
+    "objectID": "talks.html#section",
+    "href": "talks.html#section",
+    "title": "Talks",
+    "section": "",
+    "text": "EMPG 2026: slides\nAIP 2026: the shortIRT package\nPARS 2026, Psicostat: There’s nothing more practical than a good theory\nPsychoco, Padova: the shortIRT package and the matRiks package"
+  },
+  {
+    "objectID": "talks.html#section-1",
+    "href": "talks.html#section-1",
+    "title": "Talks",
+    "section": "",
+    "text": "AIP 2025, symposium “New perspectives for developing short forms of tests”: overview and slides\nAIP 2025, second symposium: slides\nEMPG 2025: slides\nPredoc Camp, DiPSCo: slides\nSIS 2025, Genoa: slides"
+  },
+  {
+    "objectID": "talks.html#section-2",
+    "href": "talks.html#section-2",
+    "title": "Talks",
+    "section": "",
+    "text": "ASA 2024, Rome. Symposium: Developing, administering and refining measurement instruments in Social Sciences\nAIP 2024, Noto: Test length doesn’t matter, it’s how you use the items that counts\n“Prospettive interdisciplinari nella misura di competenze e capacità linguistiche in età scolare”, Padova: Perché non generare test e questionari open… dal principio? (examples)\n“La psicometria tra oggi e domani”, Florence: L’importanza di essere significante"
+  },
+  {
+    "objectID": "talks.html#section-3",
+    "href": "talks.html#section-3",
+    "title": "Talks",
+    "section": "",
+    "text": "CMStatistics 2023, Berlin (invited): When randomness opens new possibilities\nEMPG 2023, Amsterdam: matRiks: An R package for rule-based automatic generation of Raven-like matrices\nASA 2023, Bologna: Cut it short\nAIP 2023, Lucca: Le misure in psicologia sono significanti? and matRiks"
+  },
+  {
+    "objectID": "talks.html#section-4",
+    "href": "talks.html#section-4",
+    "title": "Talks",
+    "section": "",
+    "text": "AIP 2022, Padova: Don’t say CAT and The Rasch model: Questionnaires and beyond\nEMPG 2022, Rovereto: Pauci sed boni"
+  },
+  {
+    "objectID": "talks.html#section-5",
+    "href": "talks.html#section-5",
+    "title": "Talks",
+    "section": "",
+    "text": "AIP 2021, Lecce: Less is more and Risposta sbagliata!"
+  },
+  {
+    "objectID": "talks.html#section-6",
+    "href": "talks.html#section-6",
+    "title": "Talks",
+    "section": "",
+    "text": "eRum 2020, Shiny demo: Scoring the Implicit Association Test has never been easier\nuseR! 2020: slides, poster, video\nAIP 2020: Non separare dopo quello che hai somministrato insieme prima\nCognitive Science Arena, Brixen: Filling the gap between implicit and behavior. Third place, best presentation."
+  },
+  {
+    "objectID": "talks.html#section-7",
+    "href": "talks.html#section-7",
+    "title": "Talks",
+    "section": "",
+    "text": "AIP 2019, Milan: DscoreApp: Una Shiny web application per il calcolo del D score"
+  },
+  {
+    "objectID": "talks.html#section-8",
+    "href": "talks.html#section-8",
+    "title": "Talks",
+    "section": "",
+    "text": "EMPG 2018, Genoa: Rasch gone mixed"
+  }
+]

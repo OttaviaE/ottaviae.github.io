@@ -1,0 +1,85 @@
+/* Home: name and portrait */
+.oe-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: clamp(1.5rem, 5vw, 4rem);
+  align-items: center;
+  margin: 1rem 0 3rem;
+}
+
+.oe-hero h1 {
+  font-size: clamp(2.2rem, 5.5vw, 3.6rem);
+  line-height: 0.98;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.75rem;
+  border: 0;
+  color: var(--oe-name);
+}
+
+.oe-role {
+  font-family: "Bricolage Grotesque", "Trebuchet MS", sans-serif;
+  font-size: 1.15rem;
+  line-height: 1.4;
+  margin: 0;
+  color: var(--oe-muted);
+}
+
+.oe-tagline {
+  font-style: italic;
+  font-size: 0.8rem;
+  margin-top: 3rem;
+  color: var(--oe-muted);
+}
+
+.oe-photo {
+  display: block;
+  width: 100%;
+  max-width: 170px;
+  justify-self: end;
+  aspect-ratio: 1;
+  object-fit: cover;
+  box-shadow: 8px 8px 0 var(--oe-band);
+}
+
+.oe-links ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.4rem;
+  padding: 0;
+  list-style: none;
+  font-family: "Bricolage Grotesque", "Trebuchet MS", sans-serif;
+  font-weight: 600;
+}
+
+/* Headings and long lists on the inner pages */
+h1, h2, h3, .title { letter-spacing: -0.01em; }
+h2 { border-bottom: 0 !important; margin-top: 2.2rem; }
+
+main p, main li { max-width: 72ch; }
+
+.oe-refs ul, .oe-list ul { list-style: none; padding-left: 0; }
+
+.oe-refs li, .oe-list li { margin-bottom: 0.9rem; }
+
+.oe-refs li { padding-left: 1.2rem; text-indent: -1.2rem; }
+
+.oe-note { color: var(--oe-muted); font-size: 0.92rem; }
+
+/* Software: each package gets a butter-yellow band, not a card */
+.oe-package {
+  background: var(--oe-band);
+  padding: 1.1rem 1.4rem 0.4rem;
+  margin-bottom: 1.4rem;
+  border-left: 6px solid var(--oe-name);
+}
+
+.oe-package h2 { margin-top: 0; }
+
+h2, .title { color: var(--oe-head); }
+
+a:focus-visible { outline: 3px solid currentColor; outline-offset: 2px; }
+
+@media (max-width: 700px) {
+  .oe-hero { grid-template-columns: 1fr; }
+  .oe-photo { max-width: 150px; justify-self: start; }
+}

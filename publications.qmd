@@ -1,0 +1,58 @@
+---
+title: "Publications"
+toc: true
+toc-title: "By year"
+---
+
+::: {.oe-refs}
+
+## 2026
+
+- **Epifania, O. M.**, Brancaccio, A., Anselmi, P., & de Chiusole, D. [Generation of rule-based matrices with the matRiks package: A tutorial](https://doi.org/10.3389/fpsyg.2025.1698995). *Frontiers in Psychology, 16*, 1698995.
+- **Epifania, O. M.**, Anselmi, P., & Robusto, E. [implicitMeasures: An R package for scoring the Implicit Association Test and the Single-Category Implicit Association Test](https://doi.org/10.1177/01466216251371532). *Applied Psychological Measurement, 50*(1-2), 58-59.
+- Brancaccio, A., **Epifania, O. M.**, Anselmi, P., & de Chiusole, D. [Automatic generation of rule-based Raven-like matrices in R: The matRiks package](https://doi.org/10.1177/01466216251374826). *Applied Psychological Measurement, 50*(3), 148-149.
+- Brancaccio, A., de Chiusole, D., **Epifania, O. M.**, Anselmi, P., Spinoso, M., Mazzoni, N., Bacherini, A., Orsoni, M., Giovagnoli, S., Pierluigi, I., Benassi, M., Balboni, G., & Stefanutti, L. [Two Markov solution process models for the assessment of planning in problem solving](https://doi.org/10.1017/psy.2025.10042). *Psychometrika, 91*(1), 360-390.
+- de Chiusole, D., **Epifania, O. M.**, Anselmi, P., Brancaccio, A., Mazzoni, N., Spinoso, M., Orsoni, M., Giovagnoli, S., Pierluigi, I., Bacherini, A., Benassi, M., Balboni, G., & Stefanutti, L. [Multi-method validation of the new computerized test of fluid intelligence MatriKS](https://doi.org/10.3758/s13428-026-03049-2). *Behavior Research Methods, 58*(7), 191.
+- Spinoso, M., Benassi, M., Riccardi, A., Orsoni, M., Mazzoni, N., Brancaccio, A., **Epifania, O. M.**, Allegretti, M., Muccinelli, M., Novelli, C., de Chiusole, D., Anselmi, P., Stefanutti, L., Bacherini, A., Pierluigi, I., Balboni, G., & Giovagnoli, S. [Error patterns on a computerized version of Raven's progressive matrices in specific learning disorders](https://doi.org/10.3389/fpsyg.2026.1800128). *Frontiers in Psychology, 17*, 1800128.
+- Orsoni, M., Mazzoni, N., Spinoso, M., Garofalo, S., Costantini, S., Raggini, R., Bacherini, A., Pierluigi, I., Brancaccio, A., **Epifania, O. M.**, de Chiusole, D., Anselmi, P., Stefanutti, L., Giovagnoli, S., Balboni, G., Sant'Angelo, R. P., & Benassi, M. [Error patterns in progressive matrices in schizophrenia and bipolar disorders](https://doi.org/10.31234/osf.io/uwf93_v1). Preprint, PsyArXiv.
+
+## 2025
+
+- **Epifania, O. M.**, Anselmi, P., & Robusto, E. [Comparing the ability of the IAT and of the SC-IAT to account for behavioral outcomes: A re-analysis using linear mixed-effects models](https://doi.org/10.3389/fpsyg.2025.1652403). *Frontiers in Psychology, 16*, 1652403.
+- **Epifania, O. M.**, & Finos, L. [Nothing lasts forever – only item administration: An Item Response Theory algorithm to shorten tests](https://doi.org/10.1007/978-3-031-95995-0_32). SIS 2025 Conference, Genoa.
+- Anselmi, P., de Chiusole, D., Robusto, E., Bacherini, A., Balboni, G., Brancaccio, A., **Epifania, O. M.**, Mazzoni, N., & Stefanutti, L. [An extension of the basic local independence model to multiple observed classifications](https://doi.org/10.1111/bmsp.70008). *British Journal of Mathematical and Statistical Psychology*.
+- Ciuffo, G., Ionio, C., **Epifania, O. M.**, Landoni, M., Bianchi, S., Webb, R., Constantinou, G., & Ayers, S. [Validation of the City Birth Trauma Scale in Italian: Addressing childbirth-related posttraumatic stress disorder](https://doi.org/10.1080/02646838.2025.2546969). *Journal of Reproductive and Infant Psychology*.
+- Franchino, E., Ciringione, L., Canal, L., **Epifania, O. M.**, Lombardi, L., Lattanzi, G., & Stella, M. [A network psychometric analysis of math anxiety factors in Italian psychology students](https://doi.org/10.3390/psycholint7020048). *Psychology International, 7*(2).
+
+## 2024
+
+- **Epifania, O. M.**, Anselmi, P., & Robusto, E. [A guided tutorial on linear mixed-effects models for the analysis of accuracy and response times in experiments with fully-crossed design](https://doi.org/10.1037/met0000708). *Psychological Methods*.
+- de Chiusole, D., Spinoso, M., Anselmi, P., Bacherini, A., Balboni, G., Mazzoni, N., Brancaccio, A., **Epifania, O. M.**, Orsoni, M., Giovagnoli, S., et al. [PsycAssist: A web-based artificial intelligence system designed for adaptive neuropsychological assessment and training](https://doi.org/10.3390/brainsci14020122). *Brain Sciences, 14*.
+
+## 2023
+
+- **Epifania, O. M.**, Robusto, E., & Anselmi, P. [Is the performance at the Implicit Association Test sensitive to feedback presentation? A Rasch-based analysis](https://doi.org/10.1007/s00426-022-01703-w). *Psychological Research, 87*(3), 737-759.
+- **Epifania, O. M.**, Anselmi, P., & Robusto, E. [Pauci sed boni: An Item Response Theory approach for shortening tests](https://doi.org/10.1007/978-3-031-27781-8_7). In M. Wiberg et al. (Eds.), *Quantitative Psychology* (IMPS 2022). Springer Proceedings in Mathematics & Statistics, vol. 422.
+
+## 2022
+
+- **Epifania, O. M.**, Anselmi, P., & Robusto, E. [Filling the gap between implicit associations and behavior: A linear mixed-effects Rasch analysis of the Implicit Association Test](https://doi.org/10.5964/meth.7155). *Methodology, 18*(3), 185-202.
+- **Epifania, O. M.**, Anselmi, P., & Robusto, E. [Implicit social cognition through the years: The Implicit Association Test at age 21](https://doi.org/10.1037/cns0000305). *Psychology of Consciousness: Theory, Research, and Practice, 9*(3).
+
+## 2021
+
+- **Epifania, O. M.**, Robusto, E., & Anselmi, P. [Rasch gone mixed: A mixed model approach to the Implicit Association Test](https://doi.org/10.4473/TPM28.4.5). *TPM: Testing, Psychometrics, Methodology in Applied Psychology, 28*(4).
+- Paolini, S., Devita, M., **Epifania, O. M.**, Anselmi, P., Sergi, G., Mapelli, D., & Coin, A. [Perception of stress and cognitive efficiency in older adults with mild and moderate dementia during the COVID-19-related lockdown](https://doi.org/10.1016/j.jpsychores.2021.110584). *Journal of Psychosomatic Research, 149*.
+- **Epifania, O. M.** [Inglorious Measures: A linear mixed-effects model approach for a Rasch analysis of implicit measure accuracy and time responses](https://ottaviae.github.io/presentations/PhD-Thesis/EpifaniaPhDThesis.pdf). PhD thesis, University of Padova.
+
+## 2020
+
+- **Epifania, O. M.**, Anselmi, P., & Robusto, E. [DscoreApp: A Shiny web application for the computation of the Implicit Association Test *D*-score](https://doi.org/10.3389/fpsyg.2019.02938). *Frontiers in Psychology, 10*, 2938.
+- **Epifania, O. M.**, Anselmi, P., & Robusto, E. [A fairer comparison between the Implicit Association Test and the Single Category Implicit Association Test](https://doi.org/10.4473/TPM27.2.4). *TPM: Testing, Psychometrics, Methodology in Applied Psychology, 27*(2).
+- **Epifania, O. M.**, Anselmi, P., & Robusto, E. [Implicit measures with reproducible results: The implicitMeasures package](https://doi.org/10.21105/joss.02394). *Journal of Open Source Software, 5*(52), 2394.
+
+## 2019
+
+- **Epifania, O. M.**, Anselmi, P., & Robusto, E. [DscoreApp: A user-friendly web application for computing the Implicit Association Test *D*-score](https://doi.org/10.21105/joss.01764). *Journal of Open Source Software, 4*(42), 1764.
+
+:::

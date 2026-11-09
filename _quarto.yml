@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - img/**
+    - .nojekyll
+
+website:
+  title: "Ottavia M. Epifania"
+  site-url: https://ottaviae.github.io
+  description: "Psychometrics, Item Response Theory and R packages. University of Trento."
+  navbar:
+    left:
+      - publications.qmd
+      - software.qmd
+      - talks.qmd
+      - teaching.qmd
+    right:
+      - text: CV
+        href: "https://ottaviae.github.io/presentations/cv/Epifania-CV%20-%20Copy.pdf"
+      - icon: github
+        href: https://github.com/OttaviaE
+        aria-label: GitHub
+  page-footer:
+    left: "Ottavia M. Epifania"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [default, styles/light.scss]
+      dark: [default, styles/dark.scss]
+    css: styles/custom.css
+    include-in-header: styles/fonts.html
+    toc: false
+    lang: en
+    anchor-sections: false

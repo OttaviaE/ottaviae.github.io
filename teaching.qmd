@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+---
+
+::: {.oe-list}
+
+## University courses
+
+- **Testing for work organizations**, Master's in Work Psychology, University of Padova (2025/26)
+- **Probability and Statistics**, Bachelor's in Human Computer Interaction, University of Trento (2025/26)
+- **Data Analysis with software application**, Bachelor's in Psychology, University of Trento (2025/26)
+- **Introduction to Psychometrics and Data Analysis**, Master's in Psychology, University of Trento (2024/25)
+- **Statistical Psychometrics**, Bachelor's in Psychology, Università Cattolica del Sacro Cuore, Milan (2021/22 to 2023/24)
+
+## Schools and short courses
+
+- **RMarkdown: Reproducible analysis, presentations, reports and beyond**, ARCA, University of Padova (since 2022). [Course site](https://arca-dpss.github.io/CorsoRmarkdown/)
+- **From experiment design to data analysis: How to work with implicit measures**, Master in Quantitative Psychology, University of Padova (since 2022)
+- **An introduction to Item Response Theory models with R**, University of Trento (2023). [Course site](https://ottaviae.github.io/IRTintro/)
+- **couRse: An introduction to R**, Graduate School in Psychology, Università Cattolica, Milan (2023). [Materials](https://github.com/OttaviaE/coRso)
+- **Measurement models in Psychology**, Scuola Superiore di Scienze dell'Educazione "S. Giovanni Bosco", Massa (2024)
+- **Introduction to Item Response Theory with applications in R**, Graduate School, University of Bolzano (2022). [Course site](https://ottaviae.github.io/bRixen-IRT/)
+- **Programming in R and introduction to Shiny**, QHELP (2022). [Course site](https://ottaviae.github.io/RcouRse/)
+
+:::

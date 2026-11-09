@@ -1,0 +1,33 @@
+---
+pagetitle: "Ottavia M. Epifania"
+description: "Researcher in Psychometrics at the University of Trento."
+---
+
+```{=html}
+<div class="oe-hero">
+  <div>
+    <h1>Ottavia M. Epifania, PhD</h1>
+    <p class="oe-role">Researcher in Tenure Track in Psychometrics<br>Psicostat Core Team</p>
+  </div>
+  <img class="oe-photo" src="img/ottavia.jpg" alt="Portrait of Ottavia">
+</div>
+```
+
+I am a tenure-track researcher in psychometrics at the [Department of Psychology and Cognitive Science](https://webapps.unitn.it/du/en/Persona/PER0271059/Curriculum) of the University of Trento, in Rovereto.
+
+I work on latent variable models, mostly Item Response Theory: how to shorten a test without losing what it measures, how to generate test items automatically, and how to model accuracy and response times in implicit measures. Most of this ends up as [R packages and Shiny apps](software.qmd), so that other people can use it too.
+
+I am part of the core team of [Psicostat](https://psicostat.dpss.psy.unipd.it/) and an Academic Editor at PeerJ.
+
+::: {.oe-links}
+- [Publications](publications.qmd)
+- [Software](software.qmd)
+- [Talks](talks.qmd)
+- [Teaching](teaching.qmd)
+- [ottavia.epifania@unitn.it](mailto:ottavia.epifania@unitn.it)
+- [ORCID](https://orcid.org/0000-0001-8552-568X)
+:::
+
+::: {.oe-tagline}
+The horror persists, and so do I.
+:::

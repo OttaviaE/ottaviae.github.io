@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+$body-bg: #FFFFFF;
+$body-color: #000000;
+$link-color: #C8102E;
+$navbar-bg: #0A1F44;
+$navbar-fg: #FFFFFF;
+$navbar-hl: #F2D27A;
+$footer-bg: #FFFFFF;
+$font-family-sans-serif: "Literata", Georgia, serif;
+$headings-font-family: "Bricolage Grotesque", "Trebuchet MS", sans-serif;
+$headings-font-weight: 800;
+$font-size-root: 18px;
+
+/*-- scss:rules --*/
+:root {
+  --oe-name: #D5152B;
+  --oe-head: #0A1F44;
+  --oe-band: #F2D27A;
+  --oe-muted: #0A1F44;
+}
