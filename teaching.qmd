@@ -1,21 +1,30 @@
 ---
-title: "Teaching"
+title: "Teaching & Resources"
 ---
+
+:::{.callout-note}
+## Resources
+
+- [Introducttion to R with examplesa and exercises](https://ottaviae.github.io/stpc-analisi-dati/introduzione-a-R-IT.html)
+- [Descriptive statistics](https://ottaviae.github.io/stpc-analisi-dati/dispensa-statistica-descrittiva.pdf)
+
+:::
 
 ::: {.oe-list}
 
 ## University courses
 
-- **Testing for work organizations**, Master's in Work Psychology, University of Padova (2025/26)
+- **Testing for work organizations**, Master's in Work Psychology, University of Padova (2025/26) [Materials](https://ottaviae.github.io/test-organizzioni-fisppa/)
 - **Probability and Statistics**, Bachelor's in Human Computer Interaction, University of Trento (2025/26)
-- **Data Analysis with software application**, Bachelor's in Psychology, University of Trento (2025/26)
+- **Data Analysis with software application**, Bachelor's in Psychology, University of Trento (2025/26) [Materials](https://github.com/OttaviaE/stpc-analisi-dati)
 - **Introduction to Psychometrics and Data Analysis**, Master's in Psychology, University of Trento (2024/25)
 - **Statistical Psychometrics**, Bachelor's in Psychology, Università Cattolica del Sacro Cuore, Milan (2021/22 to 2023/24)
 
 ## Schools and short courses
 
-- **RMarkdown: Reproducible analysis, presentations, reports and beyond**, ARCA, University of Padova (since 2022). [Course site](https://arca-dpss.github.io/CorsoRmarkdown/)
-- **From experiment design to data analysis: How to work with implicit measures**, Master in Quantitative Psychology, University of Padova (since 2022)
+- **Introduction to Shiny**, Bachelor in Statistics, Univerity of Padova [Materials](https://ottaviae.github.io/stat-shiny/)
+- **Shine with quarto**, ARCA Summer school [Materials](https://arca-dpss.github.io/shine-with-quarto/)
+- **From experiment design to data analysis: How to work with implicit measures**, Master in Quantitative Psychology, University of Padova (since 2022)[Materials](https://github.com/OttaviaE/master-psqt)
 - **An introduction to Item Response Theory models with R**, University of Trento (2023). [Course site](https://ottaviae.github.io/IRTintro/)
 - **couRse: An introduction to R**, Graduate School in Psychology, Università Cattolica, Milan (2023). [Materials](https://github.com/OttaviaE/coRso)
 - **Measurement models in Psychology**, Scuola Superiore di Scienze dell'Educazione "S. Giovanni Bosco", Massa (2024)
