@@ -2,23 +2,23 @@
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Teaching",
+    "title": "Teaching & Resources",
     "section": "",
-    "text": "Testing for work organizations, Master’s in Work Psychology, University of Padova (2025/26)\nProbability and Statistics, Bachelor’s in Human Computer Interaction, University of Trento (2025/26)\nData Analysis with software application, Bachelor’s in Psychology, University of Trento (2025/26)\nIntroduction to Psychometrics and Data Analysis, Master’s in Psychology, University of Trento (2024/25)\nStatistical Psychometrics, Bachelor’s in Psychology, Università Cattolica del Sacro Cuore, Milan (2021/22 to 2023/24)\n\n\n\n\n\nRMarkdown: Reproducible analysis, presentations, reports and beyond, ARCA, University of Padova (since 2022). Course site\nFrom experiment design to data analysis: How to work with implicit measures, Master in Quantitative Psychology, University of Padova (since 2022)\nAn introduction to Item Response Theory models with R, University of Trento (2023). Course site\ncouRse: An introduction to R, Graduate School in Psychology, Università Cattolica, Milan (2023). Materials\nMeasurement models in Psychology, Scuola Superiore di Scienze dell’Educazione “S. Giovanni Bosco”, Massa (2024)\nIntroduction to Item Response Theory with applications in R, Graduate School, University of Bolzano (2022). Course site\nProgramming in R and introduction to Shiny, QHELP (2022). Course site"
+    "text": "Resources\n\n\n\n\nIntroducttion to R with examplesa and exercises\nDescriptive statistics"
   },
   {
     "objectID": "teaching.html#university-courses",
     "href": "teaching.html#university-courses",
-    "title": "Teaching",
-    "section": "",
-    "text": "Testing for work organizations, Master’s in Work Psychology, University of Padova (2025/26)\nProbability and Statistics, Bachelor’s in Human Computer Interaction, University of Trento (2025/26)\nData Analysis with software application, Bachelor’s in Psychology, University of Trento (2025/26)\nIntroduction to Psychometrics and Data Analysis, Master’s in Psychology, University of Trento (2024/25)\nStatistical Psychometrics, Bachelor’s in Psychology, Università Cattolica del Sacro Cuore, Milan (2021/22 to 2023/24)"
+    "title": "Teaching & Resources",
+    "section": "University courses",
+    "text": "University courses\n\nTesting for work organizations, Master’s in Work Psychology, University of Padova (2025/26) Materials\nProbability and Statistics, Bachelor’s in Human Computer Interaction, University of Trento (2025/26)\nData Analysis with software application, Bachelor’s in Psychology, University of Trento (2025/26) Materials\nIntroduction to Psychometrics and Data Analysis, Master’s in Psychology, University of Trento (2024/25)\nStatistical Psychometrics, Bachelor’s in Psychology, Università Cattolica del Sacro Cuore, Milan (2021/22 to 2023/24)"
   },
   {
     "objectID": "teaching.html#schools-and-short-courses",
     "href": "teaching.html#schools-and-short-courses",
-    "title": "Teaching",
-    "section": "",
-    "text": "RMarkdown: Reproducible analysis, presentations, reports and beyond, ARCA, University of Padova (since 2022). Course site\nFrom experiment design to data analysis: How to work with implicit measures, Master in Quantitative Psychology, University of Padova (since 2022)\nAn introduction to Item Response Theory models with R, University of Trento (2023). Course site\ncouRse: An introduction to R, Graduate School in Psychology, Università Cattolica, Milan (2023). Materials\nMeasurement models in Psychology, Scuola Superiore di Scienze dell’Educazione “S. Giovanni Bosco”, Massa (2024)\nIntroduction to Item Response Theory with applications in R, Graduate School, University of Bolzano (2022). Course site\nProgramming in R and introduction to Shiny, QHELP (2022). Course site"
+    "title": "Teaching & Resources",
+    "section": "Schools and short courses",
+    "text": "Schools and short courses\n\nIntroduction to Shiny, Bachelor in Statistics, Univerity of Padova Materials\nShine with quarto, ARCA Summer school Materials\nFrom experiment design to data analysis: How to work with implicit measures, Master in Quantitative Psychology, University of Padova (since 2022)Materials\nAn introduction to Item Response Theory models with R, University of Trento (2023). Course site\ncouRse: An introduction to R, Graduate School in Psychology, Università Cattolica, Milan (2023). Materials\nMeasurement models in Psychology, Scuola Superiore di Scienze dell’Educazione “S. Giovanni Bosco”, Massa (2024)\nIntroduction to Item Response Theory with applications in R, Graduate School, University of Bolzano (2022). Course site\nProgramming in R and introduction to Shiny, QHELP (2022). Course site"
   },
   {
     "objectID": "software.html",

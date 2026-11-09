@@ -9,7 +9,7 @@ description: "Researcher in Psychometrics at the University of Trento."
     <h1>Ottavia M. Epifania, PhD</h1>
     <p class="oe-role">Researcher in Tenure Track in Psychometrics<br>Psicostat Core Team</p>
   </div>
-  <img class="oe-photo" src="img/ottavia.jpg" alt="Portrait of Ottavia">
+  <img class="oe-photo" src="img/me.jpeg" alt="Portrait of Ottavia">
 </div>
 ```
 
